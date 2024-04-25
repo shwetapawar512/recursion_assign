@@ -1,3 +1,4 @@
+/*Recursive function to check given no is perfect or not*/
 #include<stdio.h>
 static int num;
 int rec_fun_perfect(int );
