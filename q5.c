@@ -1,3 +1,4 @@
+/*Recursive function to reverse a given num*/
 #include<stdio.h>
 int rec_fun_rev(int num);
 void main()
