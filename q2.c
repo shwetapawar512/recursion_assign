@@ -1,3 +1,4 @@
+/* recursive function for count a digit less than 6 in given no*/
 #include<stdio.h>
 int rec_fun_count(int num);
 void main()
