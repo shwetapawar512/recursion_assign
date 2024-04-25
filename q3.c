@@ -1,3 +1,4 @@
+/*Recursive function to product of digit factor of 3 given any int num*/
 #include<stdio.h>
 int rec_fun_product(int num);
 void main()
