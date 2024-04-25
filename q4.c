@@ -1,3 +1,4 @@
+/*Recursive function to sum of last 3 digits of a given no*/
 #include<stdio.h>
 int rec_fun_sum(int num,int c);
 void main()
@@ -13,7 +14,7 @@ void main()
 
 	result=rec_fun_sum(num,n);
 
-	printf("Sum of even digits: %d\n",result);
+	printf("Sum of last three digits: %d\n",result);
 }
 int rec_fun_sum(int num,int c)
 {
